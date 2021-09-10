@@ -1,12 +1,11 @@
 ﻿/*
-   Created by Pi BOTS MakerHub
+   Created by Alexg
 
-   Email: pibotsmakerhub@gmail.com
+   Email:mywork5699@gmail.com
 
-   Github: https://github.com/pibotsmakerhub
+   Github: https://github.com/prf-alekie
 
-   Copyright (c) 2020 Pi BOTS MakerHub
-*/
+   */
 
 
 //FirebaseESP8266.h must be included before ESP8266WiFi.h
